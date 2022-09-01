@@ -13,3 +13,7 @@ Continuous delivery usually means a developer’s changes to an application are 
 Continuous deployment (the other possible "CD") can refer to automatically releasing a developer’s changes from the repository to production, where it is usable by customers. It addresses the problem of overloading operations teams with manual processes that slow down app delivery. It builds on the benefits of continuous delivery by automating the next stage in the pipeline.
 
 ![Screenshot 2022-09-01 at 11 22 32](https://user-images.githubusercontent.com/102330725/187892064-e451b24f-8bf0-4433-bcbc-7c0e676724fb.png)
+
+## Jenkins
+
+Jenkins offers a simple way to set up a continuous integration or continuous delivery (CI/CD) environment for almost any combination of languages and source code repositories using pipelines, as well as automating other routine development tasks. While Jenkins doesn’t eliminate the need to create scripts for individual steps, it does give us a faster and more robust way to integrate our entire chain of build, test, and deployment tools than we can easily build yourself.
