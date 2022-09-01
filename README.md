@@ -17,3 +17,7 @@ Continuous deployment (the other possible "CD") can refer to automatically relea
 ## Jenkins
 
 Jenkins offers a simple way to set up a continuous integration or continuous delivery (CI/CD) environment for almost any combination of languages and source code repositories using pipelines, as well as automating other routine development tasks. While Jenkins doesn’t eliminate the need to create scripts for individual steps, it does give us a faster and more robust way to integrate our entire chain of build, test, and deployment tools than we can easily build yourself.
+
+## Webhook
+
+A Webhook is a mechanism to automatically trigger the build of a Jenkins project in response to a commit pushed to a Git repository.
